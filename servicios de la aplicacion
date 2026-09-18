@@ -1,0 +1,44 @@
+Términos de Servicio y Política de Privacidad
+Última actualización: Septiembre de 2026
+
+Aplicación: Enma EL Arquit / Sistema de Inteligencia Artificial 3D
+
+Contacto del Propietario: bellohernandezenmanueldejesus@gmail.com
+
+1. Reglas de Uso y Responsabilidades del Usuario
+Al acceder y utilizar esta aplicación web, el usuario acepta cumplir con las siguientes reglas:
+
+Uso Permitido: La aplicación debe utilizarse únicamente con fines legítimos, de desarrollo personal, pruebas de interfaz o interacción con la inteligencia artificial.
+
+Autenticación y Cuentas: El usuario es responsable de mantener la seguridad de sus credenciales de acceso a través de Google OAuth. No se permite intentar suplantar la identidad de otros usuarios.
+
+Prohibición de Uso Indebido: Queda estrictamente prohibido:
+
+Intentar realizar ataques de denegación de servicio (DoS/DDoS), inyección de código o vulnerar la seguridad del servidor.
+
+Utilizar bots, scrapers o automatizaciones no autorizadas para saturar la API de la Inteligencia Artificial.
+
+Emplear la plataforma para generar o difundir contenido ilegal, difamatorio, de odio o que infrinja derechos de terceros.
+
+2. Propiedad Intelectual
+Derechos sobre la Aplicación: Todo el código fuente, diseño de interfaz 3D, lógica de programación, logotipos, elementos gráficos y marcas (incluyendo los assets de "Enma EL Arquit") son propiedad exclusiva del desarrollador de la plataforma.
+
+Contenido Generado por la IA: Los resultados, respuestas y gráficos generados por el modelo de Inteligencia Artificial se otorgan al usuario para su uso personal y no exclusivo, reservándose la plataforma el derecho de limitar o suspender la generación en caso de abuso de la API.
+
+Librerías de Terceros: Esta aplicación hace uso de tecnologías de código abierto y APIs de terceros (como Three.js, Node.js y la API de Google Gemini), las cuales se rigen por sus respectivas licencias originales.
+
+3. Limitaciones de Responsabilidad
+Servicio "Tal Cual" (As-Is): La aplicación se proporciona "tal cual" y según disponibilidad, sin garantías de ningún tipo, explícitas o implícitas, sobre su continuidad o precisión.
+
+Disponibilidad del Sistema: El desarrollador no garantiza que el servicio esté libre de interrupciones, errores de conexión con las APIs de Google o fallos en los servidores SMTP.
+
+Respuestas de la Inteligencia Artificial: La Inteligencia Artificial procesa información de manera automatizada. El desarrollador no se hace responsable por imprecisiones, decisiones tomadas con base en las respuestas del sistema o pérdida de datos derivados del uso del software.
+
+4. Política de Privacidad y Manejo de Datos
+Datos Recopilados: Al iniciar sesión con Google OAuth, la aplicación únicamente recopila la información básica del perfil público autorizada por el usuario (nombre y dirección de correo electrónico).
+
+Uso de la Información: El correo electrónico se utiliza exclusivamente para la autenticación de la cuenta y para el envío de notificaciones automáticas de seguridad al propietario (bellohernandezenmanueldejesus@gmail.com) tras cada inicio de sesión.
+
+Protección de Datos: Las credenciales y claves de API se gestionan mediante variables de entorno seguras. No vendemos, alquilamos ni compartimos datos personales con terceros para fines publicitarios.
+
+Derecho de Supresión: El usuario puede revocar el acceso de la aplicación en cualquier momento desde la configuración de seguridad de su cuenta de Google.
