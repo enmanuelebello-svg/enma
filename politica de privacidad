@@ -1,0 +1,43 @@
+# Términos de Servicio y Política de Privacidad
+
+**Última actualización:** Septiembre de 2026  
+**Aplicación:** Enma EL Arquit / Sistema de Inteligencia Artificial 3D  
+**Propietario:** Enmanuel de Jesús Bello Hernández  
+**Contacto oficial:** bellohernandezenmanueldejesus@gmail.com  
+
+---
+
+## 1. Titularidad del Proyecto y Propiedad Intelectual
+* **Derechos de Autor:** Esta aplicación web, su arquitectura 3D, código fuente, interfaz visual y la marca **Enma EL Arquit** son propiedad exclusiva del desarrollador Enmanuel de Jesús Bello Hernández.
+* **Licencia de Uso:** Se concede al usuario un acceso limitado, personal y no transferible para interactuar con la interfaz 3D y los módulos de Inteligencia Artificial.
+* **Restricciones de Código:** Queda estrictamente prohibida la copia, redistribución, ingeniería inversa o venta comercial no autorizada del código fuente y los recursos del proyecto.
+
+---
+
+## 2. Accesos Permitidos y Uso de Autenticación (Google OAuth)
+* **Datos Recopilados:** Al presionar "Continuar con Google", la aplicación únicamente solicita acceso a la información básica de tu perfil público (nombre completo y correo electrónico).
+* **Uso de la Información:** Estos datos se utilizan exclusivamente para:
+  1. Autenticar y dar acceso a la plataforma.
+  2. Enviar notificaciones de seguridad automáticas al propietario sobre los inicios de sesión.
+* **Privacidad y Protección:** No almacenamos ni solicitamos contraseñas de Google. No compartimos, vendemos ni cedemos datos a terceros con fines comerciales o publicitarios.
+
+---
+
+## 3. Reglas de Uso y Responsabilidades del Usuario
+Al acceder a la aplicación, el usuario acepta las siguientes reglas:
+* **Uso Legítimo:** Utilizar la Inteligencia Artificial de forma ética y responsable.
+* **Prohibiciones:** 
+  * Intentar vulnerar la seguridad de la aplicación, el servidor o las APIs de integración.
+  * Realizar spam, solicitudes automatizadas masivas (bots) o saturación del servicio.
+  * Usar el sistema para generar o transmitir contenido ilegal, ofensivo o difamatorio.
+
+---
+
+## 4. Limitación de Responsabilidad
+* **Disponibilidad:** La aplicación se ofrece "tal cual" (*as is*). El desarrollador no garantiza la disponibilidad ininterrumpida del servicio ni se hace responsable por fallas temporales en los servidores o las APIs de terceros (como Google o Gemini).
+* **Respuestas de la IA:** Las respuestas generadas por el modelo de Inteligencia Artificial son procesadas de forma automatizada. El desarrollador no asume responsabilidad por la interpretación o uso que el usuario haga de dicha información.
+
+---
+
+## 5. Control del Usuario y Cancelación
+El usuario puede revocar el acceso de esta aplicación a su cuenta de Google en cualquier momento desde la sección de seguridad de su cuenta personal de Google ([https://myaccount.google.com/permissions](https://myaccount.google.com/permissions)).
